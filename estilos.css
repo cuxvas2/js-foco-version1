@@ -22,9 +22,11 @@ body{
 }
 
 .foco {
+    /* Para imagen responsiva */
     width: 100%;
     max-width: 150px;
     height: auto;
 
+    /*Cambia el cursos del usuario*/
     cursor: pointer;
 }

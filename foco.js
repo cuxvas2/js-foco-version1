@@ -33,8 +33,7 @@ function foco(){
             document.body.classList.remove('luz');
             document.body.classList.add('oscuridad');
         }
-
-        //Agrega la imagen al DOM
-        document.body.appendChild(img);
     });
+    //Agrega la imagen al DOM
+    document.body.appendChild(img);
 }
